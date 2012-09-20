@@ -1,0 +1,4 @@
+qstardict
+=========
+
+qstardict
