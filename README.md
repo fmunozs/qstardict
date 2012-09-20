@@ -1,4 +1,6 @@
 qstardict
 =========
 
-qstardict
+qstardict for MeeGo Harmattan
+
+
