@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/qstardict/!svn/ver/467/trunk/plugins/stardict
+END
+distance.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qstardict/!svn/ver/238/trunk/plugins/stardict/distance.h
+END
+settingsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qstardict/!svn/ver/265/trunk/plugins/stardict/settingsdialog.cpp
+END
+dictziplib.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qstardict/!svn/ver/238/trunk/plugins/stardict/dictziplib.hpp
+END
+mapfile.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qstardict/!svn/ver/375/trunk/plugins/stardict/mapfile.hpp
+END
+stardict.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qstardict/!svn/ver/412/trunk/plugins/stardict/stardict.h
+END
+file.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qstardict/!svn/ver/238/trunk/plugins/stardict/file.hpp
+END
+settingsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qstardict/!svn/ver/265/trunk/plugins/stardict/settingsdialog.h
+END
+lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qstardict/!svn/ver/467/trunk/plugins/stardict/lib.cpp
+END
+distance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qstardict/!svn/ver/238/trunk/plugins/stardict/distance.cpp
+END
+lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qstardict/!svn/ver/268/trunk/plugins/stardict/lib.h
+END
+settingsdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qstardict/!svn/ver/322/trunk/plugins/stardict/settingsdialog.ui
+END
+stardict.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qstardict/!svn/ver/402/trunk/plugins/stardict/stardict.pro
+END
+dictziplib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qstardict/!svn/ver/447/trunk/plugins/stardict/dictziplib.cpp
+END
+stardict.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qstardict/!svn/ver/412/trunk/plugins/stardict/stardict.cpp
+END

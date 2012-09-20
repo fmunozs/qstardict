@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/qstardict/!svn/ver/467/trunk/plugins
+END
+plugins.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qstardict/!svn/ver/435/trunk/plugins/plugins.pro
+END
+plugin.pri
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/qstardict/!svn/ver/411/trunk/plugins/plugin.pri
+END
+dictplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qstardict/!svn/ver/412/trunk/plugins/dictplugin.h
+END

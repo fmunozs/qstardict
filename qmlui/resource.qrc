@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml-translations.en.qm</file>
+        <file>qml-translations.es.qm</file>
+        <file>qml-translations.fr.qm</file>
+        <file>qml-translations.de.qm</file>
+        <file>qml/qmlui/TranslationPage.qml</file>
+        <file>qml/qmlui/SettingsPage.qml</file>
+        <file>qml/qmlui/MainPage.qml</file>
+        <file>qml/qmlui/main.qml</file>
+        <file>qml/qmlui/RepositoriesPage.qml</file>
+        <file>qml/qmlui/GroupSeparator.qml</file>
+    </qresource>
+</RCC>

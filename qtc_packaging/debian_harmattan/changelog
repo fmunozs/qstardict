@@ -1,0 +1,36 @@
+qstardict (0.0.6) unstable; urgency=low
+
+  * Focus textfield on start
+  * New QML list
+  * Performance improvements
+  * Clicking linked words (in some dictionaries)
+  * Pinch to zoom
+  * Disabled reformatList option (broke some translations)
+
+ -- Fernando <fernando@null-life.com>  Fri, 19 Sep 2012 06:14:00 -0500
+
+
+qstardict (0.0.5) unstable; urgency=low
+
+  * Dictionary repository support
+  * Integrated transferui
+  * Fixed crash when the dic folder was not present on the system
+
+ -- Fernando <fernando@null-life.com>  Fri, 17 Feb 2012 13:37:00 -0500
+
+qstardict (0.0.3) unstable; urgency=low
+
+  * New icon!
+  * Added invert theme option
+  * Small performance tweaks
+
+ -- Fernando <fernando@null-life.com>  Fri, 30 Jan 2012 13:37:00 -0500
+
+
+qstardict (0.0.2) unstable; urgency=low
+
+  * Initial Release.
+  * Fixed blackscreen on PR 1.0
+  * Added translations
+
+ -- Fernando <fernando@null-life.com>  Fri, 06 Jan 2012 04:20:19 -0500

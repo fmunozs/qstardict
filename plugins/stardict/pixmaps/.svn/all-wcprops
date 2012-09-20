@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qstardict/!svn/ver/257/trunk/plugins/stardict/pixmaps
+END
+arrow-up.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qstardict/!svn/ver/257/trunk/plugins/stardict/pixmaps/arrow-up.png
+END
+arrow-down.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/qstardict/!svn/ver/257/trunk/plugins/stardict/pixmaps/arrow-down.png
+END
+list-add.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qstardict/!svn/ver/257/trunk/plugins/stardict/pixmaps/list-add.png
+END
+pixmaps.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qstardict/!svn/ver/257/trunk/plugins/stardict/pixmaps/pixmaps.qrc
+END
+list-remove.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/qstardict/!svn/ver/257/trunk/plugins/stardict/pixmaps/list-remove.png
+END
